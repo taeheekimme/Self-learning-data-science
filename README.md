@@ -6,10 +6,10 @@
 - 2020.11.23 ~ 2021.01.17 (8주)
 
 #### 사용 언어 및 프로그램 
-- Python / jupyter notebook, google colab
+- Python / jupyter notebook, google colab / Notion(학습 리뷰 및 커리큘럼 확인) / Slack(학습 공지사항 및 질문)
 
 #### 수업 방식
-- 스스로 학습 자료 기반으로 선 학습 후, Zoom을 활용한 멘토님의 복습 강의 수강
+- 관리자님이 작성해주신 커리큘럼을 기반으로 선 학습 후, Zoom을 통해 멘토님의 복습 강의 수강
 - 데이콘 대회 코드 강의 수강
 
 #### 수업 내용
