@@ -1,4 +1,4 @@
-# Self_learning_data_science
+# Self_Learning_Data_Science
 
 ### 스스로 배우는 데이터 사이언스
 
