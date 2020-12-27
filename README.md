@@ -19,8 +19,8 @@
 **1주차**
 - Python 실습 환경 
     - idle, google colab, anaconda, vscode, jupyter notebook, jupyter lab, atom, pycham
-    - Python 문자열 포맷팅 방법, 기본 자료형
-    - <https://www.youtube.com/watch?v=kWiCuklohdY> 수강
+- Python 문자열 포맷팅 방법, 기본 자료형
+- <https://www.youtube.com/watch?v=kWiCuklohdY> 수강
 - **1주차 복습 강의**
     - 강의 진행 후, 클래스에 대해 어려워하는 학생들이 많음
     - 클래스 기초 개념부터 객체, init메소드 등 전반적인 개념과 활용 대한 설명
