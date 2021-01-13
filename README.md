@@ -3,12 +3,10 @@
 ## 기간
 - 2020.11.23 ~ 2021.01.17 (8주)<br><br>
 ## 주관
-- Algorima
-- AI 양재 허브<br><br><br>
+- Algorima / AI 양재 허브<br><br><br>
 
 ## 사용 언어 및 프로그램 
-- Python 
-- Jupyter notebook, google colab <br><br>
+- Python /upyter notebook, google colab <br><br>
 
 ## 수업 방식
 - Zoom을 통한 비대면 강의<br>
